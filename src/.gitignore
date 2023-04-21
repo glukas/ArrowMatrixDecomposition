@@ -1,0 +1,4 @@
+.idea/
+wandb/*
+/figures_first/
+__pycache__/*
