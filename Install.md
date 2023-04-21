@@ -1,5 +1,7 @@
 # Install on Piz Daint
 
+The following instructions have been tested on Piz Daint in April 2023. You may need to adapt the instructions based on your needs.
+
 * Swap the compiler:
 
 ```commandline
@@ -55,4 +57,5 @@ pip install wandb
 For Analysis:
 ```commandline
 pip install matplotlib
+pip install tqdm
 ```
